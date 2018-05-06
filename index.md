@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://www.jrtapsell.co.uk"
+redirect_to: "https://github.com/jrtapsell"
 ---
